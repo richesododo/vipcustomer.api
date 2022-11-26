@@ -1,0 +1,17 @@
+fastapi==0.79.0
+fastapi-users==10.2.1
+uvicorn[standard]==0.17.6
+ujson==5.4.0
+python-dotenv==0.20.0
+sqlmodel==0.0.6
+asyncpg==0.26.0
+alembic==1.8.1
+fastapi-pagination
+linkedin-api==1.1.0
+beautifulsoup4==4.11.1
+lxml==4.9.1
+soupsieve==2.3.2.post1
+wikipedia==1.4.0
+numpy==1.23.4
+pandas==1.5.1
+pyforbes==1.0.3
