@@ -8,7 +8,7 @@ env:
   AWS_REGION: us-east-1 # set this to your preferred AWS region, e.g. us-west-1
   ECR_REPOSITORY: vip-back # set this to your Amazon ECR repository name
   ECS_SERVICE: vip-back # set this to your Amazon ECS service name
-  ECS_CLUSTER: vip-cluster # set this to your Amazon ECS cluster name
+  ECS_CLUSTER: vip # set this to your Amazon ECS cluster name
   ECS_TASK_DEFINITION: .aws/task-definition.json # set this to the path to your Amazon ECS task definition
   CONTAINER_NAME: vip-back
 
