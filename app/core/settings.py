@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     # Enable uvicorn reloading
     RELOAD: bool = False
     # Database settings
-    DB_HOST: str = "localhost"
+    DB_HOST: str = "vip-db.cklimyfwgeih.us-east-1.rds.amazonaws.com"
     DB_PORT: int = 5432
     DB_USER: str = "postgres"
     DB_PASS: str = "postgres"
